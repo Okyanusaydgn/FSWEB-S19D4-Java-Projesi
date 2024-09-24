@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/3835fd55-4439-4ce6-9ba1-beaa770399e3)
+
+Resmin kaynağı: [Kaynak Adı](https://blogimage.vantagecircle.com/content/images/2021/01/Employee-Management-Meaning-Importance-Tips-Tools---More.png)
 # Employee Management Backend Projesi
 
 Merhaba! Bu proje, Java Spring Boot ve PostgreSQL kullanarak geliştirdiğimiz bir Çalışan Yönetim Sistemi. Burada çalışan bilgilerini ekleyebilir, silebilir, güncelleyebilir ve listeleyebilirsin. Backend projesi tamamen Java ile yazıldı ve veritabanı olarak PostgreSQL kullandık.
